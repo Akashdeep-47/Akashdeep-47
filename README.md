@@ -1,6 +1,11 @@
+<div>
+ <p>
+  <img width="240" height="230" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/oct-about.png"> 
+  </p>
+  
 <h1 align="center">Hi 👋, I'm Akashdeep Gupta</h1>
 <h3 align="center">A passionate developer from India.</h3>
-
+  
 - 🌱 I’m currently learning **different technologies.**
 
 - 👯 I’m looking to collaborate on **Open source projects.**
