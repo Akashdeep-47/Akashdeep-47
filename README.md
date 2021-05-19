@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akashde54740805" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akashde54740805" height="30" width="40" /></a>
+<a href="https://twitter.com/akashdeep_47" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akashdeep_47" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akashdeep-gupta-009183191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akashdeep-gupta-009183191" height="30" width="40" /></a>
 <a href="https://instagram.com/akashdeep__25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akashdeep__25" height="30" width="40" /></a>
 <a href="https://medium.com/@akashdeepg06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akashdeepg06" height="30" width="40" /></a>
